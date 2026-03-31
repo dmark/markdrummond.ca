@@ -1,17 +1,19 @@
 ---
-title: Welcome to My Notebook
+title: Principal IAM Architect & Systems Engineer
+layout: mail
 ---
 
-This is a bit of an experiment, using [Quartz](https://quartz.jzhao.xyz) to publish these notes to Github Pages. I was posting them as bare Markdown files to [this repo](https://github.com/dmark/notes), but Quartz turns them into an [Obsidian Publish-like website](https://obsidian.md/publish) "for free".
+I am a Principal-level IAM Architect and systems engineer with deep experience designing, building, and modernizing enterprise and consumer identity platforms in highly regulated environments. My work centres on secure, scalable, and standards-based identity architectures that enable digital trust, Zero Trust security models, and modern cloud-native services. While I am deeply engaged in IAM strategy, standards, and industry evolution, I also bring hands-on technical depth and a strong understanding of the underlying mechanics of identity protocols, platforms, and integrations.
 
-# Japanese Language Studies
+As an IT Director responsible for both enterprise IAM and CIAM programs, I am accountable for identity strategy, architecture, governance, and platform modernization. My scope includes MFA and passkey adoption, identity governance (IGA) capability development, cloud identity services, and the consolidation of complex legacy identity environments onto modern IDaaS platforms. I work closely with security, infrastructure, cloud, and application teams to embed identity as foundational enterprise infrastructure, balancing security, usability, and operational resilience.
 
-The only thing here at the moment are notes about my journey to learn Japanese, beyond the tourist Japanese I've learned in the past, found here: [[start-here|000. Start Here]]. You can go straight to my [[progress-log|100. Progress Log]].
+With nearly 30 years in technology, my background spans systems engineering, security-first infrastructure design, large-scale platform modernization, cloud and SaaS operations, and identity engineering. I entered the IAM domain early in its evolution, working with enterprise directory, authentication, and access management platforms (Netscape, iPlanet, Sun ONE / Sun Java System), which established a durable foundation in identity-centric architecture, security, and operational reliability that continues to inform my work today. Earlier in my career, I delivered pre- and post-sales identity architecture and implementation services, designing and deploying directory, identity, and messaging solutions for large public- and private-sector organizations.
 
-# About This Site
+I am actively involved in the identity community through IDPro, the Digital Governance Standards Institute, and the OpenID Foundation. I hold CISSP and CIDPRO® certifications, have contributed to the IDPro Body of Knowledge, and have long participated in technical knowledge-sharing and mentorship within the systems and identity community. My current focus is helping organizations align business objectives, security requirements, and emerging identity standards to deliver resilient, enterprise-scale IAM solutions.
 
-- This site is built with [Quartz](https://quartz.jzhao.xyz) and hosted on GitHub.
-- Non-Linear: Most notes are hyperlinked. Use the Graph View on the right ⮕ to see how concepts connect.
-- Work in Progress: If a link is gray or leads to a stub, I’m still learning that concept!
+# Beyond IAM
 
-Press Ctrl + K (or Cmd + K) to search for any specific grammar point or vocabulary word I've logged.
+* **[[interests/にほんごのべんきょう/start-here|Japanese]]**: My journey toward Japanese language proficiency.
+* **[[interests/books|Books]]**: Avid reader.
+* **[[interests/gaming|Gaming]]**: Avid gamer.
+* **[[interests/motorrad|Motorrad]]**: Avid rider.

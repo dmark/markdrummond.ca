@@ -1,9 +1,16 @@
 ---
-title: 100. Progress Log
+title: Progress Log
 draft: false
 tags:
   - にほんごのべんきょう
 ---
+
+**2026-03-31**:
+
+- I am working my way through Lesson 4 of Genki I. I have been maintaining my daily Anki practice.
+- As much as possible I am avoiding reading and writing romaji. That said, most of the text in Genki I is, naturally, hiragana, so I'm finding my katakana recall is suffering a bit. I need to explicitly practice katakana to keep it fresh.
+- I haven't touched Tae Kim's website in a while. It is probably redundant with Genki I.
+- Getting ahead of myself, I bought these [N5](https://www.amazon.ca/dp/4872179811?ref=ppx_yo2ov_dt_b_fed_asin_title) and [N4](https://www.amazon.ca/dp/487217982X?ref=ppx_yo2ov_dt_b_fed_asin_title) vocabulary books. I occasionally look at the N5 book, but it is a bit too soon for serious study. Maybe after I finish Genki I.
 
 **2026-03-12**:
 

@@ -1,10 +1,10 @@
 ---
-title: 000. Start Here
+title: Start Here
 draft: false
 tags:
   - にほんごのべんきょう
+order: 1
 ---
-
 | ”にほんごがわかりますか”
 
 | ”はい、すこしわかります。でもまだじょうずじゃありません”
