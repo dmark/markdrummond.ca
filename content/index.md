@@ -15,7 +15,7 @@ I am actively involved in the identity community through IDPro, the Digital Gove
 
 # Beyond IAM
 
-* **[[interests/にほんごのべんきょう/start-here|Japanese]]**: My journey toward Japanese language proficiency.
-* **[[interests/books|Books]]**: Avid reader.
-* **[[interests/gaming|Gaming]]**: Avid gamer.
-* **[[interests/motorrad|Motorrad]]**: Avid rider.
+* **[[500.-interests/にほんごのべんきょう/start-here|Japanese]]**: My journey toward Japanese language proficiency.
+* **[[500.-interests/books|Books]]**: Avid reader.
+* **[[500.-interests/gaming|Gaming]]**: Avid gamer.
+* **[[500.-interests/motorrad|Motorrad]]**: Avid rider.
