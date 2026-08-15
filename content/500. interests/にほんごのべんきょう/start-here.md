@@ -11,11 +11,11 @@ order: 1
 
 I have long wanted to live and work in Japan. I have been to Japan three times, totally about 30 days, but my last trip to Japan was way back in 2012. For those past trips I learned "traveler's Japanese" using various resources (Pimsleur, Living Language, etc.). My Wife joined me for one of those trips, and we took a two-term course in conversational Japanese together.
 
-Conversational Japanese resource are useful, and I am using those as well, but this is about obtaining JLPT N3 or N2 certification in the next 24 - 36 months. So, what do you do if you want to start learning Japanese _right now_? Here's what seems to be working for me.
+Conversational Japanese resources are useful, and I am using those as well, but this is about obtaining JLPT N3 or N2 certification in the next 24 - 36 months. So, what do you do if you want to start learning Japanese _right now_? Here's what seems to be working for me.
 
 1. Understand [SRS](https://en.wikipedia.org/wiki/Spaced_repetition).
 1. Learn to read hiragana: https://www.tofugu.com/japanese/learn-hiragana/
-    - This will take less than a week.
+    - This will take less than a week, but you must keep up the practice, or you will lose it very quickly.
 1. Learn to read katakana: https://www.tofugu.com/japanese/learn-katakana/
     - This should take even less time than learning hiragana.
     - Some resources suggest you can save katakana for later. I find there's enough katakana in whatever Japanese text I come across that learning it sooner rather than later is worthwhile.
