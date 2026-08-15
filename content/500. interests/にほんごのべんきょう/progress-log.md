@@ -5,6 +5,11 @@ tags:
   - にほんごのべんきょう
 ---
 
+**2026-08-15**:
+
+- A long hiatus, as another project took priority. I am back to reviewing my hiragana. I'm happy to report they are still coming to me quite easily despite not practicing for 4 - 5 months.
+- Rebooting Genki I.
+
 **2026-03-31**:
 
 - I am working my way through Lesson 4 of Genki I. I have been maintaining my daily Anki practice.
