@@ -23,8 +23,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Space Grotesk",
-        body: "Source Serif 4",
+        header: "Fraunces",
+        body: "Newsreader",
         code: "JetBrains Mono",
       },
       colors: {
